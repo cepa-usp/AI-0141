@@ -1,3 +1,6 @@
-h1. AI-0141
+h1. Populações, comunidades e ecossistemas
 
-Ecossistema.
+Este Recurso Educacional (RE) visa promover a diferenciação entre os níveis de organização dos seres vivos: átomos, moléculas, organelas, moléculas, tecidos, órgãos, sistemas de órgãos, organismos, populações, comunidades e ecossistemas. Trata-se de um RE de interação simples do tipo _drag&drop_ (arrasta-e-solta).
+
+* URL canônica: "http://midia.atp.usp.br/atividades-interativas/AI-0141
+* Pacote SCORM 2004: "http://midia.atp.usp.br/atividades-interativas/AI-0141_PIF.zip
